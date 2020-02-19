@@ -1,6 +1,8 @@
 # dats-tools
 
-[![Build Status](https://travis-ci.org/datatagsuite/dats-tools.svg?branch=master)](https://travis-ci.org/datatagsuite/dats-tools)
+This is a clone of https://github.com/datatagsuite/dats-tools.git to be used here using the CONP version of DATS model.
+
+[![Build Status](https://travis-ci.org/datatagsuite/dats-tools.svg?branch=master)](https://travis-ci.org/CONP-PCNO/dats-tools)
 
 Python code to deal with the DATS model.
 
